@@ -13,7 +13,7 @@ Como forma de validar melhor os aprendizados dos cursos, o desafio nessa etapa �
 3. Salvar cada parte como um arqivo txt
 4. Transformar os arquivos txt em pdfs (com o apoio do libreoffice)
 5. Subir para o bucket no S3 chamado “Estagio-2022Q2” criando um diretório como o nome de cada um.
-6. Enviar o código do shell script para o email julio.machado@arkmeds.com
+6. Enviar o código do shell script para o email ****************
 
 ### Anexo:
 
